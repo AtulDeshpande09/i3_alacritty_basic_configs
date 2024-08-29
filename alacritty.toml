@@ -1,0 +1,21 @@
+[window]
+
+opacity = 0.7
+padding = {x=10,y=20}
+decorations="None"
+decorations_theme_variant="Dark"
+
+[font]
+normal.family = "Roboto Mono"
+bold.family = "Roboto Mono"
+italic.family = "Roboto Mono"
+italic_bold.family = "Roboto Mono"
+
+size=10.0
+offset = {x=1,y=1}
+
+[terminal]
+osc52 = "CopyPaste"
+
+[mouse]
+hide_when_typing = true
